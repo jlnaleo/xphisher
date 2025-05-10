@@ -4,7 +4,7 @@
   <img src=".github/misc/logo.png">
 </p>
 
-<p align="center"><b>A beginners friendly, Automated phishing tool with 30+ templates.</b></p>
+<p align="center"><b>Ferramenta de phishing apenas para fins educacionais.</b></p>
 
 ##
 
